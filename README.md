@@ -17,6 +17,8 @@ A collection of beginner-to-intermediate LangGraph workflows built while learnin
 
 - 7_Review_Reply_workflow | A LLM-based workflow that performs sentiment analysis on customer reviews and generates personalized responses based on the detected sentiment.
 
+- 8_X_Post_Generator | Generates, evaluates, and optimizes X/Twitter posts using multiple LLM-based workflow nodes and conditional routing
+
 ## Concepts Covered
 LangGraph State
 Nodes and edges
@@ -29,6 +31,10 @@ LLM integration
 Structured output
 Conditional routing
 Non-LLM workflows
+Iterative workflow optimization
+Multi-LLM workflows
+Pydantic-based structured evaluation
+
 
 ## Technologies
 - Python
@@ -36,6 +42,7 @@ Non-LLM workflows
 - LangChain
 - Google Gemini API
 - Jupyter Notebook
+- Pydantic
 
 ## Goal
 This repository documents my practical learning journey with LangGraph, with each notebook building on concepts introduced in the previous ones.
