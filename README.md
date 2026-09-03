@@ -22,26 +22,26 @@ A collection of beginner-to-intermediate LangGraph workflows built while learnin
 - 9_basic_chatbot |  A basic conversational chatbot using LangGraph, message state, thread-based conversation memory, and Gemini. |
 
 ## Concepts Covered
-LangGraph State
-Nodes and edges
-Conditional edges
-Graph compilation
-Workflow invocation
-State transitions
-Prompt chaining
-LLM integration
-Structured output
-Conditional routing
-Non-LLM workflows
-Iterative workflow optimization
-Multi-LLM workflows
-Pydantic-based structured evaluation
-Chatbot workflows
-HumanMessage and AIMessage
-Thread-based conversation
-Checkpointers
-Configurable thread IDs
-Conversation memory
+* LangGraph State
+* Nodes and edges
+* Conditional edges
+* Graph compilation
+* Workflow invocation
+* State transitions
+* Prompt chaining
+* LLM integration
+* Structured output
+* Conditional routing
+* Non-LLM workflows
+* Iterative workflow optimization
+* Multi-LLM workflows
+* Pydantic-based structured evaluation
+* Chatbot workflows
+* HumanMessage and AIMessage
+* Thread-based conversation
+* Checkpointers
+* Configurable thread IDs
+* Conversation memory
 
 
 ## Technologies
