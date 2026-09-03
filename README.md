@@ -15,9 +15,11 @@ A collection of beginner-to-intermediate LangGraph workflows built while learnin
 
 - 6_Quadratic Equation | Non-LLM workflow for solving quadratic equations using conditional routing |
 
-- 7_Review_Reply_workflow | A LLM-based workflow that performs sentiment analysis on customer reviews and generates personalized responses based on the detected sentiment.
+- 7_Review_Reply_workflow | A LLM-based workflow that performs sentiment analysis on customer reviews and generates personalized responses based on the detected sentiment. |
 
-- 8_X_Post_Generator | Generates, evaluates, and optimizes X/Twitter posts using multiple LLM-based workflow nodes and conditional routing
+- 8_X_Post_Generator | Generates, evaluates, and optimizes X/Twitter posts using multiple LLM-based workflow nodes and conditional routing. |
+
+- 9_basic_chatbot |  A basic conversational chatbot using LangGraph, message state, thread-based conversation memory, and Gemini. |
 
 ## Concepts Covered
 LangGraph State
@@ -34,6 +36,12 @@ Non-LLM workflows
 Iterative workflow optimization
 Multi-LLM workflows
 Pydantic-based structured evaluation
+Chatbot workflows
+HumanMessage and AIMessage
+Thread-based conversation
+Checkpointers
+Configurable thread IDs
+Conversation memory
 
 
 ## Technologies
